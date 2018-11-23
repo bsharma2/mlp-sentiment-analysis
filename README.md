@@ -9,3 +9,5 @@ Default parameters:
     * Lambda 2 (L2): l2     = 1e-6
     * Batch        : BATCH  = 1 (SGD)
     * Epochs       : NEPOCH = 1
+
+- El título del Notebook (NeuralNetworksSemana3.ipynb) no es el correcto, debería ser "Word Embeddings: Multi Layer Neural Network for Sentiment Analysis"
