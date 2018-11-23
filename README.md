@@ -1,4 +1,4 @@
-# Word Embeddings
+# Word Embeddings: Multi Layer Neural Network for Sentiment Analysis
 
 We train a multilayer neural network with L1 and L2 regularization to classify movie reviews from the 50k IMDb review dataset that has been collected by Maas et. al.
 
